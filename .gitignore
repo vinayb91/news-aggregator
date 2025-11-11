@@ -9,3 +9,4 @@ init
 vendor/
 bin/
 dist/
+.github
