@@ -1,0 +1,11 @@
+# Ignore environment files
+.env
+
+init
+
+*.log
+*.tmp
+.DS_Store
+vendor/
+bin/
+dist/
